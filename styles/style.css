@@ -40,7 +40,6 @@ ol {
 .content {
   display: flex;
   align-items: end;
-  padding: 133px 30px;
   gap: 30px;
 }
 
